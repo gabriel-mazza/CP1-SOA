@@ -1,5 +1,7 @@
 CP1 — Professor Salatiel Luz Marinho
 
+Gabriel Barros Mazzariol RM 555410
+Jefferson Junior Alvarez Urbina  RM 558497
 
 Projeto em dupla dividido em dois repositórios:
 
