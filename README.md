@@ -1,7 +1,4 @@
-
-
-> Projeto desenvolvido para a disciplina Arquitetura Orientada a Serviços (SOA) — FIAP  
-> CP1 — Professor Salatiel Luz Marinho
+CP1 — Professor Salatiel Luz Marinho
 
 
 Projeto em dupla dividido em dois repositórios:
